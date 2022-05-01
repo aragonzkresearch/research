@@ -1,0 +1,4 @@
+Oblivious transfer (OT) is a cryptographical primitive that is fundamental for secure multiparty computation. We give a brief introduction to the Bellare-Micali OT protocol, which is particularly simple and elegant.
+
+https://hackmd.io/mrq588uMTnqv_8aHISDRog
+
